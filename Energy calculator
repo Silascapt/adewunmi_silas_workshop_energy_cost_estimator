@@ -1,0 +1,10 @@
+# Workshop Energy Cost Estimator
+
+## What it does
+This program helps workshop users calculate the daily and monthly electricity cost of their machines. The user enters the number of machines, their names, power ratings (in watts), and daily operating hours. It then calculates energy consumption in kWh and the total cost based on the local electricity tariff.
+
+## How to run it
+Install Python 3, then run:
+
+## Sample output
+Welcome to Workshop Energy Cost Estimator By Adewunmi Silas - CTE213 How many machines do you have in the workshop? 4 … Total daily kWh: 31.9 Daily cost: 31900.0 Naira Monthly kWh (30 days): 957.0 Monthly cost: 957000.0 Naira Largest daily kWh: 10.0 Machines above 1000W: 0 High energy workshop — My Own Twist: PLC Energy Saving — milling machine: Medium power - Can use timer drilling machine: Low power - OK grinding machine: Medium power - Can use timer folding machine: Medium power - Can use timer
